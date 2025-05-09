@@ -25,6 +25,14 @@ strong {
   margin-bottom: 15px;
 }
 
+.destaque {
+    font-size: 18px;
+  color: #ff0000;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+
 /* Estilo para o segundo parágrafo */
 .paragrafo-dois {
   font-size: 18px;
